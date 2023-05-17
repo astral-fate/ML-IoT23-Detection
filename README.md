@@ -6,7 +6,7 @@
 2. [Data Cleaning](#Data-Cleaning)
 3. [Classifications Models](#Classifications-Models)
 4. [Model Pipeline](#Model-Pipeline)
-5. [Model Deployment](#Model Deployment)
+5. [Model Deployment](#Model-Deployment)
 
 
 ## About IoT23 Dataset
