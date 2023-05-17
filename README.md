@@ -46,3 +46,9 @@
 
 
 
+## Model Deployment
+
+We used flask and PythonAnyWhere as a cloud service to deploy the model
+
+
+
