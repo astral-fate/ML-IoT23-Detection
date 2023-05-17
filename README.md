@@ -58,7 +58,9 @@ Presenation:
 
 https://www.canva.com/design/DAFjKKE_UlE/67wUHf4F30mSgpp3pHyycg/view?utm_content=DAFjKKE_UlE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
 
-Learning materials:
+Kaggle notebook:
+
+https://www.kaggle.com/astralfate/supervised-learning
 
 
 
