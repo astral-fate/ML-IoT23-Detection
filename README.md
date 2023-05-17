@@ -49,6 +49,9 @@
 ## Model Deployment
 
 We used flask and PythonAnyWhere as a cloud service to deploy the model
+![Copy of ML](https://github.com/astral-fate/ML-IoT23-Detection/assets/63984422/0906b084-dcce-4b74-ae5a-3019fa568940)
+
+
 
 
 
