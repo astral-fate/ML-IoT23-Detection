@@ -50,6 +50,15 @@
 We used flask and PythonAnyWhere as a cloud service to deploy the model
 ![Copy of ML](https://github.com/astral-fate/ML-IoT23-Detection/assets/63984422/0906b084-dcce-4b74-ae5a-3019fa568940)
 
+http://astralfate.pythonanywhere.com/
+
+## Refrenses: 
+
+Presenation: 
+
+https://www.canva.com/design/DAFjKKE_UlE/67wUHf4F30mSgpp3pHyycg/view?utm_content=DAFjKKE_UlE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
+
+Learning materials:
 
 
 
